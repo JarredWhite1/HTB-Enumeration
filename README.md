@@ -1,2 +1,2 @@
 # HTB-Enumeration
-Enumeration Machine Rooted on HTB
+"Enumeration" Machine Writeup from HTB
